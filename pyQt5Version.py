@@ -204,7 +204,7 @@ class Ui_MainWindow(object):
         self.path.setFont(font)
         self.path.setLayoutDirection(QtCore.Qt.RightToLeft)
         self.path.setTextFormat(QtCore.Qt.RichText)
-        self.path.setAlignment(QtCore.Qt.AlignTop)
+        self.path.setAlignment(QtCore.Qt.AlignCenter)
         self.path.setWordWrap(True)
         self.path.setObjectName("path")
         self.pushButton = QtWidgets.QPushButton(self.centralwidget)
