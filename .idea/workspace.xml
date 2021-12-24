@@ -17,8 +17,8 @@
       <file leaf-file-name="pyQt5Version.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pyQt5Version.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="209" column="67" lean-forward="true" selection-start-line="209" selection-start-column="67" selection-end-line="209" selection-end-column="67" />
+            <state relative-caret-position="165">
+              <caret line="130" column="72" lean-forward="true" selection-start-line="130" selection-start-column="72" selection-end-line="130" selection-end-column="72" />
               <folding>
                 <element signature="e#289#331#0" expanded="true" />
               </folding>
@@ -92,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,7 +104,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,17 +254,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.496208" visible="true" weight="0.13962065" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4951613" visible="true" weight="0.13962065" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30552545" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32900432" />
-      <window_info id="Structure" order="1" sideWeight="0.503792" side_tool="true" visible="true" weight="0.13962065" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32900432" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30552545" />
+      <window_info id="Structure" order="1" sideWeight="0.5048387" side_tool="true" visible="true" weight="0.13962065" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32827735" />
       <window_info id="Favorites" order="2" sideWeight="0.50274724" side_tool="true" weight="0.13962065" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -290,6 +291,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pyQt5Version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4221">
+          <caret line="209" column="67" lean-forward="true" selection-start-line="209" selection-start-column="67" selection-end-line="209" selection-end-column="67" />
+          <folding>
+            <element signature="e#289#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设置.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6468">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pyQt5Version.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4263">
@@ -391,8 +416,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pyQt5Version.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="209" column="67" lean-forward="true" selection-start-line="209" selection-start-column="67" selection-end-line="209" selection-end-column="67" />
+        <state relative-caret-position="165">
+          <caret line="130" column="72" lean-forward="true" selection-start-line="130" selection-start-column="72" selection-end-line="130" selection-end-column="72" />
           <folding>
             <element signature="e#289#331#0" expanded="true" />
           </folding>
